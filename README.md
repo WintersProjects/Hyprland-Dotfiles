@@ -1,2 +1,2 @@
 Packages Needed:
-Waybar Hyprshot
+Waybar (Waybar theme WIP) Hyprshot hyprpaper
