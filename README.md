@@ -1,0 +1,2 @@
+Packages Needed:
+Waybar Hyprshot
